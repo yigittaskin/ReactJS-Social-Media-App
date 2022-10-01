@@ -1,0 +1,18 @@
+.story-bg {
+    background-image: url(../../../../img/story-bg.jpg);
+    background-size: cover;
+    width: 140px;
+    height: 255px;
+    padding: 15px;
+    border-radius: 24px;
+}
+
+.follows-picture {
+    border: 2px solid #E1AFFF;
+    border-radius: 12px;
+    padding: 2px;
+}
+
+#user-story-name {
+    margin-left: 0 !important;
+}

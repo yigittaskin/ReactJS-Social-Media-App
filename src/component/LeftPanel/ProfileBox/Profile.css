@@ -1,0 +1,36 @@
+#profile {
+    /* font-family: Inter */
+    /* corner-smooting: 100% */
+    background-color: #fff;
+    border-radius: 24px;
+    width: 230px;
+    height: 72px;
+    margin-left: 0;
+}
+
+#profile img {
+    border-radius: 8px;
+    height: 42px !important;
+    width: 42px !important;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#profile #user-name{
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+#profile #user-tag{
+    font-size: 12px;
+    font-weight: lighter;
+    margin-top: -6px;
+    color: #A2A2A2;
+}
+
+#profile #user-info{
+    margin-top: auto;
+    margin-bottom: auto;
+}

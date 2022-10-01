@@ -1,0 +1,22 @@
+#menu-section {
+    background-color: #fff;
+    border-radius: 24px;
+    width: 230px;
+    height: 260px;
+    margin-left: 0;
+    /* float: left !important; --> margin-left yerine alternatif */
+}
+
+h6 {
+    margin-left: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.grey-line {
+    margin-top: 16px;
+    height: 2.21px;
+    width: 100%;
+    background-color: #A2A2A2;
+    opacity: 0.4;
+}
